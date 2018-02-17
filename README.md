@@ -38,7 +38,7 @@ Koristice se mera tacnosti(Accurancy) za ocenjivanje kvalitetć modela.
 
 - Takodje biće odradjeni i manualani testovi gde će se meriti procenat ispravno prepoznatih slova i procenat uspešno prepoznatih reci.
 
-- Videi na kojima je prikazan demo aplikacije se mogu preuzeti preko ovog linka: https://drive.google.com/drive/folders/1ho7GpufvRvaOlzsYBKfNDeL943K32TmJ
+- Videi na kojima je prikazan demo aplikacije se mogu preuzeti preko ovog linka: https://drive.google.com/open?id=1ho7GpufvRvaOlzsYBKfNDeL943K32TmJ
 
 **Primena projektnog resenja:**
 
