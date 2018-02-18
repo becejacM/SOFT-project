@@ -18,7 +18,7 @@ i osoba koje ovaj jezik ne znaju i samim tim pruži ovim osobama više poslovnih
 **Skup podataka:**
 
 Skup podataka ce biti ručno napravljen pomoću kamere laptopa. Biće napravljen skup fotografija šake, 
-koje predstavljaju po jedno slovo alfabeta. Za svako slovo 300-400 fotografija. Takodje, biće napravljen skup fotografija koje predstavljaju razmak i koje ne predstavljaju ništa. Fotografije ce biti učitane i prosedjene neuronskoj mrezi za treniranje(80%) i testiranje(20%).
+koje predstavljaju po jedno slovo alfabeta. Za svako slovo 300-400 fotografija. Takodje, biće napravljen skup fotografija koje predstavljaju razmak i koje ne predstavljaju ništa. Fotografije ce biti učitane i prosedjene neuronskoj mrezi za treniranje(70%), validaciju(10%) i testiranje(20%).
 Dataset se moze preuzeti preko ovog linka: https://drive.google.com/open?id=1Vv29P9f61c1esPFYHs447wZf-ywud8qC
 
 **Metodologija:**
@@ -43,3 +43,7 @@ Koristice se mera tacnosti(Accurancy) za ocenjivanje kvalitetć modela.
 **Primena projektnog resenja:**
 
 Projektno rešenje se može primeniti u sistemima za komunikaciju nemih osoba i onih koje to nisu.
+
+**Demo**
+
+![] (https://j.gifs.com/E9XyjK.gif)
