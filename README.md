@@ -38,7 +38,8 @@ Koristice se mera tacnosti(Accurancy) za ocenjivanje kvalitetć modela.
 
 - Takodje biće odradjeni i manualani testovi gde će se meriti procenat ispravno prepoznatih slova i procenat uspešno prepoznatih reci.
 
-- Videi na kojima je prikazan demo aplikacije se mogu preuzeti preko ovog linka: https://drive.google.com/open?id=1ho7GpufvRvaOlzsYBKfNDeL943K32TmJ
+- Celi vdei na kojima je prikazan demo aplikacije se mogu preuzeti preko ovog linka: https://drive.google.com/open?id=1ho7GpufvRvaOlzsYBKfNDeL943K32TmJ
+(gifovi su ograničeni na 20 sec)
 
 **Primena projektnog resenja:**
 
@@ -47,4 +48,7 @@ Projektno rešenje se može primeniti u sistemima za komunikaciju nemih osoba i 
 **Demo**
 
 - hello_world: https://j.gifs.com/E9XyjK.gif
-- i_love_you: https://gifs.com/gif/i-love-you-RoKXRV
+- i_love_you: https://j.gifs.com/RoKXRV.gif
+- demo 1: https://j.gifs.com/vox5GV.gif
+- demo 2: https://j.gifs.com/L81DQp.gif
+- demo 3: https://j.gifs.com/jqgVRy.gif
