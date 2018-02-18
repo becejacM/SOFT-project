@@ -46,5 +46,5 @@ Projektno rešenje se može primeniti u sistemima za komunikaciju nemih osoba i 
 
 **Demo**
 
-hello_world: https://j.gifs.com/E9XyjK.gif
-i_love_you: <iframe src='//gifs.com/embed/i-love-you-RoKXRV' frameborder='0' scrolling='no' width='640px' height='480px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+- hello_world: https://j.gifs.com/E9XyjK.gif
+- i_love_you: https://gifs.com/gif/i-love-you-RoKXRV
